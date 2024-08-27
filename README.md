@@ -64,4 +64,4 @@ This project provides an implementation of a Linear Support Vector Machine (SVM)
 - NumPy
 
 
-# SVM-Linear-
+
